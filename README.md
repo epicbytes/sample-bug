@@ -1,5 +1,8 @@
 # Turborepo starter
 
+**_This repository indicates there is a problem when using typesafe-i18n in turborepo .
+The module is fully connected in the "web" application, when I start it I get an error._**
+
 This is an official Yarn v1 starter turborepo.
 
 ## What's inside?
